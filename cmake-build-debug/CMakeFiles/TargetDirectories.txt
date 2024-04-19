@@ -1,0 +1,3 @@
+C:/Users/Bebdor/CLionProjects/Vorbereitung_KA2/cmake-build-debug/CMakeFiles/Vorbereitung_KA2.dir
+C:/Users/Bebdor/CLionProjects/Vorbereitung_KA2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bebdor/CLionProjects/Vorbereitung_KA2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
